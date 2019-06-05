@@ -1,0 +1,6 @@
+test.assert_equals(alphanumeric("hello world_"), False)
+test.assert_equals(alphanumeric("PassW0rd"), True)
+test.assert_equals(alphanumeric("     "), False)
+test.assert_equals(alphanumeric("__ * __"), False)
+test.assert_equals(alphanumeric("&)))((("), False)
+test.assert_equals(alphanumeric("43534h56jmTHHF3k"), True)
