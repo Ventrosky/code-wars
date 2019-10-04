@@ -19,7 +19,7 @@ for dirpath, dirs, files in os.walk("."):
 	path = dirpath.split('\\')
 	print(path)
 	if os.path.basename(dirpath) not in ["test","."]:
-		indexRdm += '\n' + (len(path)+1)*'#' + os.path.basename(dirpath) + '\n'
+		indexRdm += '\n' + (len(path)+1)*'#' + ' ' + os.path.basename(dirpath) + '\n'
 		print(len(path)*'#', os.path.basename(dirpath))
 		for f in files:
 			print("* ", f)
