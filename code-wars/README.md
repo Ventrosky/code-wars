@@ -9,6 +9,9 @@ Each kata on the site is set to a Kyu/Dan rank, based on its subject area and di
 
 ## clojure
 
+### 4 kyu
+* [Recover_secret_from_random_triplets.clj](https://github.com/Ventrosky/coding-challenges/tree/master/code-wars/clojure/4%20kyu/Recover_secret_from_random_triplets.clj)
+
 ### 6 kyu
 * [Meeting.clj](https://github.com/Ventrosky/coding-challenges/tree/master/code-wars/clojure/6%20kyu/Meeting.clj)
 * [two_sum.clj](https://github.com/Ventrosky/coding-challenges/tree/master/code-wars/clojure/6%20kyu/two_sum.clj)
@@ -98,3 +101,8 @@ Each kata on the site is set to a Kyu/Dan rank, based on its subject area and di
 
 ### 7 kyu
 * [Disemvowel_Trolls.py](https://github.com/Ventrosky/coding-challenges/tree/master/code-wars/python/7%20kyu/Disemvowel_Trolls.py)
+
+## sql
+
+### 7 kyu
+* [easy_regex_extraction.sql](https://github.com/Ventrosky/coding-challenges/tree/master/code-wars/sql/7%20kyu/easy_regex_extraction.sql)
