@@ -81,6 +81,7 @@ Each kata on the site is set to a Kyu/Dan rank, based on its subject area and di
 * [Breadcrumb_Generator.py](https://github.com/Ventrosky/code-wars/tree/master/python/4%20kyu/Breadcrumb_Generator.py)
 * [OneLineTask_PalindromeString.py](https://github.com/Ventrosky/code-wars/tree/master/python/4%20kyu/OneLineTask_PalindromeString.py)
 * [Permutations.py](https://github.com/Ventrosky/code-wars/tree/master/python/4%20kyu/Permutations.py)
+* [Squirrel_And_Tree.py](https://github.com/Ventrosky/code-wars/tree/master/python/4%20kyu/Squirrel_And_Tree.py)
 * [Sudoku_Solution_Validator.py](https://github.com/Ventrosky/code-wars/tree/master/python/4%20kyu/Sudoku_Solution_Validator.py)
 * [The_observed_PIN.py](https://github.com/Ventrosky/code-wars/tree/master/python/4%20kyu/The_observed_PIN.py)
 
