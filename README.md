@@ -31,6 +31,7 @@ Each kata on the site is set to a Kyu/Dan rank, based on its subject area and di
 * [Defuse_all_of_the_Bombs.js](https://github.com/Ventrosky/code-wars/tree/master/javascript/3%20kyu/Defuse_all_of_the_Bombs.js)
 
 ### 4 kyu
+* [Breadcrumb_Generator.js](https://github.com/Ventrosky/code-wars/tree/master/javascript/4%20kyu/Breadcrumb_Generator.js)
 * [Dependency_Injection.js](https://github.com/Ventrosky/code-wars/tree/master/javascript/4%20kyu/Dependency_Injection.js)
 * [Reg_exp_binary_divisible_by_5.js](https://github.com/Ventrosky/code-wars/tree/master/javascript/4%20kyu/Reg_exp_binary_divisible_by_5.js)
 * [Roman_Numerals_Helper.js](https://github.com/Ventrosky/code-wars/tree/master/javascript/4%20kyu/Roman_Numerals_Helper.js)
