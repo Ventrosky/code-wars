@@ -29,6 +29,7 @@ Each kata on the site is set to a Kyu/Dan rank, based on its subject area and di
 
 ### 3 kyu
 * [Defuse_all_of_the_Bombs.js](https://github.com/Ventrosky/code-wars/tree/master/javascript/3%20kyu/Defuse_all_of_the_Bombs.js)
+* [screen-locking-patterns.js](https://github.com/Ventrosky/code-wars/tree/master/javascript/3%20kyu/screen-locking-patterns.js)
 
 ### 4 kyu
 * [Breadcrumb_Generator.js](https://github.com/Ventrosky/code-wars/tree/master/javascript/4%20kyu/Breadcrumb_Generator.js)
