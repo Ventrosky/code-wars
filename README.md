@@ -15,16 +15,19 @@ Each kata on the site is set to a Kyu/Dan rank, based on its subject area and di
 ### 6 kyu
 * [Meeting.clj](https://github.com/Ventrosky/code-wars/tree/master/clojure/6%20kyu/Meeting.clj)
 * [two_sum.clj](https://github.com/Ventrosky/code-wars/tree/master/clojure/6%20kyu/two_sum.clj)
+* [mexican_wave.clj](https://github.com/Ventrosky/code-wars/tree/master/clojure/6%20kyu/mexican_wave.clj)
 
 ### 7 kyu
 * [ipv4_validator.clj](https://github.com/Ventrosky/code-wars/tree/master/clojure/7%20kyu/ipv4_validator.clj)
 * [printer_errors.clj](https://github.com/Ventrosky/code-wars/tree/master/clojure/7%20kyu/printer_errors.clj)
+* [line_numbers.clj](https://github.com/Ventrosky/code-wars/tree/master/clojure/7%20kyu/line_numbers.clj)
 
 ### 8 kyu
 * [How_good_are_you_really.clj](https://github.com/Ventrosky/code-wars/tree/master/clojure/8%20kyu/How_good_are_you_really.clj)
 * [palindromes.clj](https://github.com/Ventrosky/code-wars/tree/master/clojure/8%20kyu/palindromes.clj)
 * [reverse_string.clj](https://github.com/Ventrosky/code-wars/tree/master/clojure/8%20kyu/reverse_string.clj)
-
+* [watermelon.clj](https://github.com/Ventrosky/code-wars/tree/master/clojure/8%20kyu/watermelon.clj)
+  
 ## javascript
 
 ### 3 kyu
